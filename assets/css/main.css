@@ -17,6 +17,11 @@
 		font: inherit;
 		vertical-align: baseline;
 	}
+	#camButton{
+		background-color: #3772FF !important;
+		color: white;
+	}
+
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
@@ -1675,7 +1680,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f2849e !important;
+
 		}
 
 	strong, b {
